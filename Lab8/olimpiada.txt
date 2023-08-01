@@ -1,0 +1,4 @@
+Brasil 20 12 3
+Australia 14 2 5
+China 15 10 3
+EUA 7 9 24
